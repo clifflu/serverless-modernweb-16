@@ -1,0 +1,9 @@
+{
+  "name": "slsv1-modernweb-16",
+  "author": "Cliff Chao-kuan Lu <clifflu@gmail.com> (https://blog.clifflu.net/)",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}
